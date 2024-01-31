@@ -34,5 +34,39 @@
   * The second page should focus on insights related to pets using the device.
   * The third page should focus on insights related to the families that own the pets.
 
+## Visualization
+### The report contains four pages:
+ * Home
+ * Pets Insights
+ * Family Insights
+ * Family Summary
+
+### Home 
+#### It contains many visuals explaining the difference between Lapdog devices and Lapcat devices
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Home.png)
+
+### Pets Insights
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Pets-Insights.png)
+
+### Family Insights
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Family-Insights.png)
+
+### Family Summary
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Family-Summary.png)
+
+## KEY POWER BI FEATURES USED
+ * Creating a custom theme
+ * Bookmarks
+ * Drill through
+ * Buttons for page navigation
+
+### Creating a custom theme
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Waggle-Theme-Color.png)
+
+### Bookmarks
+
+
+
+
 
 
