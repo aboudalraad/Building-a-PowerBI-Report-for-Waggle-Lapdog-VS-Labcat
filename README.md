@@ -52,6 +52,7 @@
 ![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Family-Insights.png)
 
 ### Family Summary
+#### You can access this page by choosing the family information row from the table on the Family Insights page and clicking on Drill through after that you can show the Summary for this family on this page
 ![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Family-Summary.png)
 
 ## KEY POWER BI FEATURES USED
@@ -64,7 +65,25 @@
 ![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Waggle-Theme-Color.png)
 
 ### Bookmarks
+#### Lapdog VS Lapcat Bookmark
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Bookmarks-Screenshots/labdog-VS-lapcat-Bookmark.png)
+#### Pets Insights Bookmark
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Bookmarks-Screenshots/Pets-Insights-Bookmark.png)
+#### Family Insights Bookmark
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Bookmarks-Screenshots/Family-Insights-Bookmark.png)
+#### Dogs Bookmark
+#### You can get the dog's insights only when you press on the dog logo in the header
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Bookmarks-Screenshots/Dogs-Insights-Bookmark.png)
+#### Cats Bookmark
+#### You can get the cat's insights only when you press on the cat logo in the header
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Bookmarks-Screenshots/Cats-Insights-Bookmark.png)
+#### To reset all filters on the page This bookmark is created and assigned to a button to make report interaction easier for users. Users would be able to reset all filters applied on the page at the click of a button.
 
+### Drill through
+#### Drill through in Power BI is a feature that allows you to create a destination target page in your report that focuses on a specific entity such as a supplier, customer, or manufacturer. When your report readers right-click a data point in other source report pages, they drill through to the target page to get details that are filtered to that context. In this report, the drill-through is created on the family report page and focuses on the family IDs. To see the details of each family users will have to right-click on the individual family IDs, hover over drill through, and click on “Drill-Through Summary”, explained above on the family insights page
+
+### Page Navigation
+For ease of report navigation, buttons are provided on each report page to help users navigate to the other report pages. These buttons have hover effects so when report users hover over each button, a short message appears which tells the user what will happen if the button is clicked on, explained above on all pages
 
 
 
