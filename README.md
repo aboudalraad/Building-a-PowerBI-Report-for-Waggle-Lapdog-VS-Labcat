@@ -59,6 +59,7 @@
  * Creating a custom theme
  * Bookmarks
  * Drill through
+ * Drill-Down Bubble Map
  * Buttons for page navigation
 
 ### Creating a custom theme
@@ -82,10 +83,25 @@
 ### Drill through
 #### Drill through in Power BI is a feature that allows you to create a destination target page in your report that focuses on a specific entity such as a supplier, customer, or manufacturer. When your report readers right-click a data point in other source report pages, they drill through to the target page to get details that are filtered to that context. In this report, the drill-through is created on the family report page and focuses on the family IDs. To see the details of each family users will have to right-click on the individual family IDs, hover over drill through, and click on “Drill-Through Summary”, explained above on the family insights page
 
+### Drill-Down Bubble Map
+#### Earlier in the instructions, you were asked to create a bubble map. The product team loved this feature and wants you to expand on the idea. They have requested the ability to drill-down into the map, specifically drilling from the state into the zip codes that make up the state.
+#### They are curious if, when they hover over a bubble, the tooltip could tell them the following things about the data point in question:
+ * Total Number of Families
+ * Total Number of Pets
+ * Average Household Income
+ * Average Annual Pet Expenses
+ * Average Number of Pets per Family
+
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Drill-down-bubble-map.png)
 ### Page Navigation
 For ease of report navigation, buttons are provided on each report page to help users navigate to the other report pages. These buttons have hover effects so when report users hover over each button, a short message appears which tells the user what will happen if the button is clicked on, explained above on all pages
 
+## Insights
+ + Owners of LapCat devices were not as satisfied as owners of LapDog devices. This is evident in their ratings and recommendations as seen on the “Home” and “Pet” pages.
+ + Average daily steps for cats wearing the device did not increase as compared to the dogs.
+ + The dogs were relatively younger than the cats and this could affect their average daily steps.
 
+### Thanks for reading and your feedbacks are welcome 
 
 
 
